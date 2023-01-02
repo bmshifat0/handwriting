@@ -11,7 +11,7 @@ function isFontErrory() {
   );
   return (
     currentHandwritingFont === '' ||
-    currentHandwritingFont.includes('Homemade Apple')
+    currentHandwritingFont.includes('Bangla_Font')
   );
 }
 
