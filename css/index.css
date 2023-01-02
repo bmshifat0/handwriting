@@ -245,7 +245,7 @@ body.dark .github-corner {
 
 .margined .top-margin {
   height: 50px;
-  border-bottom: 2px solid pink;
+  border-bottom: 2px solid #616060;
   width: 100%;
   display: block;
   overflow-y: auto;
@@ -255,7 +255,7 @@ body.dark .github-corner {
   width: 50px;
   height: calc(100%);
   display: inline-block;
-  border-right: 2px solid pink;
+  border-right: 2px solid #616060;
   top: 0px;
   padding-top: 50px;
   overflow-x: hidden;
