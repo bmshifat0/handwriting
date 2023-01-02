@@ -38,6 +38,10 @@ body.dark {
   font-family: 'Bangla_Font';
   src: url(../fonts/Bangla_Font.ttf);
 }
+@font-face {
+  font-family: 'handwriting-8';
+  src: url(../fonts/handwriting-8.ttf);
+}
 
 /* Default CSS Changes */
 * {
