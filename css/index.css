@@ -35,8 +35,8 @@ body.dark {
   --font-color-delete: #e76f7b;
 }
 @font-face {
-  font-family: 'Hindi_Font';
-  src: url(../fonts/Hindi_Type.ttf);
+  font-family: 'Bangla_Font';
+  src: url(../fonts/Bangla_Font.ttf);
 }
 
 /* Default CSS Changes */
