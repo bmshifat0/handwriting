@@ -39,6 +39,10 @@ body.dark {
   src: url(../fonts/Bangla_Font.ttf);
 }
 @font-face {
+  font-family: 'Bangla-2';
+  src: url(../fonts/Bangla-2.ttf);
+}
+@font-face {
   font-family: 'English-1';
   src: url(../fonts/English-1.otf);
 }
