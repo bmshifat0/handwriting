@@ -39,8 +39,20 @@ body.dark {
   src: url(../fonts/Bangla_Font.ttf);
 }
 @font-face {
-  font-family: 'handwriting-8';
-  src: url(../fonts/handwriting-8.ttf);
+  font-family: 'English-1';
+  src: url(../fonts/English-1.otf);
+}
+@font-face {
+  font-family: 'English-2';
+  src: url(../fonts/English-2.otf);
+}
+@font-face {
+  font-family: 'English-3';
+  src: url(../fonts/English-3.ttf);
+}
+@font-face {
+  font-family: 'English-4';
+  src: url(../fonts/English-4.ttf);
 }
 
 /* Default CSS Changes */
